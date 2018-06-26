@@ -17,7 +17,7 @@ function sayHiToGrandma(string) {
   var response
   if (string.toLowerCase()) {
     response = "I can't hear you!"
-  } else if (string = "I love you, Grandma") {
+  } else if (string = "I love you, Grandma.") {
     response = "YES INDEED!"
   }
   return response
